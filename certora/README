@@ -1,0 +1,13 @@
+Build auto generated harness classes with `Makefile`. Run
+```
+make
+```
+to build the harness classes.
+
+Run
+```
+make clean
+```
+to delete the auto generated harness classes.
+
+The auto generated harness classes are commited to git.

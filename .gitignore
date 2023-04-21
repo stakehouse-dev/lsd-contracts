@@ -1,0 +1,11 @@
+node_modules/
+*.iml
+artifacts/
+cache/
+out/
+forge-cache/
+lcov.info
+.env
+.certora_internal
+.certora_recent_jobs.json
+report/
